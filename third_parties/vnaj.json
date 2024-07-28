@@ -1,0 +1,259 @@
+{
+    "public_identifier": "vnaj-peru",
+    "profile_pic_url": "https://media.licdn.com/dms/image/D4E03AQE6kEYPOkYeWw/profile-displayphoto-shrink_400_400/0/1676239472165?e=1727913600&v=beta&t=9uZQjMemvQipxRSpxCNJV19pr_gT5R6OgJZiQdS0abY",
+    "background_cover_image_url": "https: //media.licdn.com/dms/image/C4E16AQGHp0NNzhBgqw/profile-displaybackgroundimage-shrink_350_1400/0/1595093102790?e=1727913600&v=beta&t=i6Tu7N6uFPjf9p86qLvblOfDZWgPUUg2FRBLmqpHgEc",
+    "first_name": "Arthur Javier",
+    "last_name": "V.",
+    "full_name": "Arthur Javier V.",
+    "follower_count": 125,
+    "occupation": "Software Engineer @ Belcorp | AWS Certified Developer - Associate | Python | JavaScript | Workato | System Integration | Web Development",
+    "headline": "Software Engineer @ Belcorp | AWS Certified Developer - Associate | Python | JavaScript | Workato | System Integration | Web Development",
+    "summary": "Information Systems Engineer |  Software Engineer at Belcorp | AWS Certified Developer - Associate |  Leader, responsible, self-taught and fast learner |  Passionate about Systems Development, Process Automation, Systems Integration, Cloud Computing and other technologies.",
+    "country": "PE",
+    "country_full_name": "Peru",
+    "city": "Peru",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "Belcorp",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/belcorpcorporativo",
+            "company_facebook_profile_url": null,
+            "title": "Software Engineer",
+            "description": null,
+            "location": "Lima, Perú",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/belcorpcorporativo/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240728%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240728T175147Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=03a0eb8d7cae726aa1353f72334ae26c2430d74d6bad6246abb9c42bb69e0c03"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2023
+            },
+            "company": "Belcorp",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/belcorpcorporativo",
+            "company_facebook_profile_url": null,
+            "title": "Practicante de Tecnología",
+            "description": null,
+            "location": "Lima, Perú",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/belcorpcorporativo/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240728%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240728T175147Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=03a0eb8d7cae726aa1353f72334ae26c2430d74d6bad6246abb9c42bb69e0c03"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2022
+            },
+            "field_of_study": null,
+            "degree_name": "Ingeniería de Sistemas de Información",
+            "school": "Universidad Peruana de Ciencias Aplicadas",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/398719/",
+            "school_facebook_profile_url": null,
+            "description": "Skills: Programación orientada a objetos (POO) · Sistemas de información · C#",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/universidad-peruana-de-ciencias-aplicadas/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240728%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240728T175147Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=36410e1ac9ce90c42e33b996778faea1c324c7fde5b3f784f34ba08a5ac76345",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2022
+            },
+            "field_of_study": "Computer Software Engineering",
+            "degree_name": "Back End Development and APIs Certification",
+            "school": "freeCodeCamp",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/4831032/",
+            "school_facebook_profile_url": null,
+            "description": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/free-code-camp/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240728%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240728T175147Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=d5e340014b99e600c10295ab19722f734e2a9ba3330c554a42828391642cdede",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Front-End Web UI Frameworks and Tools: Bootstrap 4",
+            "license_number": "GEV2GTGAUYTG",
+            "display_source": "coursera.org",
+            "authority": "Coursera Course Certificates",
+            "url": "http://coursera.org/verify/GEV2GTGAUYTG"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "AWS Fundamentals: Addressing Security Risk",
+            "license_number": "UG3QTVAPUTJ2",
+            "display_source": "coursera.org",
+            "authority": "Coursera Course Certificates",
+            "url": "http://coursera.org/verify/UG3QTVAPUTJ2"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "AWS Fundamentals: Migrating to the Cloud",
+            "license_number": "22XFSGJA9RGB",
+            "display_source": "coursera.org",
+            "authority": "Coursera Course Certificates",
+            "url": "http://coursera.org/verify/22XFSGJA9RGB"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Fundamentos de Redes",
+            "license_number": "96196176-35d2954e-e0fa-43c9-9d4e-dcc8a17ce682",
+            "display_source": "ed.team",
+            "authority": "EDteam ",
+            "url": "https://ed.team/@arthurvalladaresnole/curso/redes"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Enrutamiento de Redes",
+            "license_number": "96196178-cbfd3269-2df3-424d-bb17-2ae53135cd58",
+            "display_source": "ed.team",
+            "authority": "EDteam ",
+            "url": "https://ed.team/@arthurvalladaresnole/curso/enrutamiento"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Conmutación de Redes",
+            "license_number": "96196177-35892505-40ef-441f-bda1-3164c40e4f73",
+            "display_source": "ed.team",
+            "authority": "EDteam ",
+            "url": "https://ed.team/@arthurvalladaresnole/curso/lan"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Infraestructura de Redes",
+            "license_number": "96196179-54c2cfa7-b31a-4500-ac7f-940380e7cb57",
+            "display_source": "ed.team",
+            "authority": "EDteam ",
+            "url": "https://ed.team/@arthurvalladaresnole/curso/infraestructura"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "AWS Fundamentals: Building Serverless Applications",
+            "license_number": "LUEQPALUG674",
+            "display_source": "coursera.org",
+            "authority": "Coursera Course Certificates",
+            "url": "http://coursera.org/verify/LUEQPALUG674"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "AWS Fundamentals: Going Cloud-Native",
+            "license_number": "PMP9VUCAQ525",
+            "display_source": "coursera.org",
+            "authority": "Coursera Course Certificates",
+            "url": "http://coursera.org/verify/PMP9VUCAQ525"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Secure Networked System with Firewall and IDS",
+            "license_number": "GGNQR4M9AJ43",
+            "display_source": "coursera.org",
+            "authority": "Coursera Course Certificates",
+            "url": "http://coursera.org/verify/GGNQR4M9AJ43"
+        }
+    ],
+    "connections": 123,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQEVUzu3OXm4EQ/group-logo_image-shrink_48x48/0/1651105385087?e=1722794400&v=beta&t=bwF8XQSkFv3cANZNtQI_bCUVqWl875ZMLwjkgImiimo",
+            "name": "Google IT Support Professional ",
+            "url": "https://www.linkedin.com/groups/10418616"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}
